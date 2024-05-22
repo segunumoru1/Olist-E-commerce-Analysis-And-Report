@@ -29,19 +29,19 @@ The analysis was conducted using a combination of Excel and Power BI, leveraging
 - **Insight Generation**: Synthesizing analysis results into actionable business insights.
 - **Recommendation Development**: Translating insights into data-driven recommendations to improve business performance.
 
-[Dashboard](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-0.jpg)
+![Dashboard](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-0.jpg)
 
-[Revenue and Pricing Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-1.jpg)
+![Revenue and Pricing Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-1.jpg)
 
-[Logistics Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-2.jpg)
+![Logistics Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-2.jpg)
 
-[Location Demography Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-3.jpg)
+![Location Demography Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-3.jpg)
 
-[Purchase Order Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-4.jpg)
+![Purchase Order Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-4.jpg)
 
-[Customer Reveiew Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-5.jpg)
+![Customer Reveiew Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-5.jpg)
 
-[Executive Summary](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-6.jpg)
+![Executive Summary](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-6.jpg)
 
 
 ## Key Insights and Recommendations
