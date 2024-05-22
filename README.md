@@ -1,4 +1,4 @@
-# Olist-E-commerce-Analysis-And-Report
+# Olist-E-commerce-Analysis-And-Report 〽️
 Olist is an e-commerce platform in Brazil that connects sellers and buyers. This project involves a comprehensive analysis of Olist's sales data to uncover key insights and provide data-driven recommendations to improve the company's performance.
 
 ## Project Overview
@@ -29,7 +29,19 @@ The analysis was conducted using a combination of Excel and Power BI, leveraging
 - **Insight Generation**: Synthesizing analysis results into actionable business insights.
 - **Recommendation Development**: Translating insights into data-driven recommendations to improve business performance.
 
+[Dashboard](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-0.jpg)
 
+[Revenue and Pricing Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-1.jpg)
+
+[Logistics Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-2.jpg)
+
+[Location Demography Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-3.jpg)
+
+[Purchase Order Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-4.jpg)
+
+[Customer Reveiew Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-5.jpg)
+
+[Executive Summary](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-6.jpg)
 
 
 ## Key Insights and Recommendations
@@ -61,3 +73,6 @@ The analysis was conducted using a combination of Excel and Power BI, leveraging
 
 ## Conclusion
 This comprehensive data analysis of Olist's sales and customer data has uncovered valuable insights that can help the company optimize its operations, improve profitability, and enhance the customer experience. By implementing the data-driven recommendations, Olist can position itself for continued growth and success in the Brazilian e-commerce market.
+
+## To Download Olist E-commerce Power BI Report
+[Olist E-commerce Interactive Report](https://drive.google.com/file/d/1oprKdTgtgBT0TFWeUsfrKyNSEJ6K5YZu/view?usp=sharing)
